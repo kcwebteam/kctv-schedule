@@ -14,7 +14,7 @@ $(function(){
   KCTVScheduleWidget.init();
 });
 ```
-*Example with options
+* Example with options
 ```
 $(function(){
   KCTVScheduleWidget.init({
