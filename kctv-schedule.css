@@ -1,0 +1,22 @@
+.schednav_ng, .tvweeks_ng{width:40em;}
+html .tvweeks_ng{margin-left:4em;}
+.tvweeks_ng{text-align:center;}
+.tvweeks_ng .column_ng{position:relative;float:left;}
+.tvdate_ng, .prev_ng, .next_ng{padding:0.5em;white-space:nowrap;}
+.prev_ng{padding-right:2em;}
+.next_ng{padding-left:2em;}
+.tvdate_ng {background-color:#FFC;font-weight:bold;text-align:center;width:15em;}
+
+.prev_ng, .next_ng{width:6em;}
+ul.tvweekdays_ng{width:40em;}
+ul.tvweekdays_ng{text-align:center;}
+ul.tvweekdays_ng, ul.tvweekdays_ng li{margin:auto;display:inline;}
+ul.tvweekdays_ng{padding:0.5em;}
+ul.tvweekdays_ng li{line-height:3em;padding:0.5em;}
+.clear{clear:both;}
+#tvschedule caption.noHeader {
+    font-size: 9pt;
+}
+.tvschedscroll_g {
+    width:18.3em;
+}
