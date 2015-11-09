@@ -1,5 +1,3 @@
-
-<script type="text/javascript">*/
 var KCTVScheduleWidget = (function ($) {
   'use strict';
 
@@ -348,5 +346,3 @@ var KCTVScheduleWidget = (function ($) {
 $(function(){
   KCTVScheduleWidget.init({headerOn: true, id : '#KCTVSchedule'});
 });
-
-/*</script>*/
